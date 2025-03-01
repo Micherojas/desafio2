@@ -11,7 +11,7 @@ Este es un pequeño proyecto web para realizar un sorteo de "Amigo Secreto" de m
 
 1. **Clonar el repositorio o descargar los archivos**
    ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   https://github.com/Micherojas/desafio2.git
    ```
 2. **Abrir el archivo `index.html` en un navegador**
    - Puedes hacer doble clic en `index.html`
